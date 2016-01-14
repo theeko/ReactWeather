@@ -1,6 +1,5 @@
-React site for searching for cities' weather data with location info
+###React site for searching for cities' weather data with location info
 
-Used Apis
-
-Google Maps
-Openweather api
+#####Used Apis
+- Google Maps
+- Openweather api
